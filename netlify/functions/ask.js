@@ -1,0 +1,3 @@
+netlify/
+└── functions/
+    └── ask.js
