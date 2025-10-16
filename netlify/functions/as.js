@@ -1,3 +1,1 @@
-netlify/
-└── functions/
-    └── ask.js
+
